@@ -1,0 +1,13 @@
+D:\Visual Studio Projects\Projects\EyeFresher\EyeFresher\obj\Debug\EyeFresher.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Projects\EyeFresher\EyeFresher\obj\Debug\EyeFresher.MainForm.resources
+D:\Visual Studio Projects\Projects\EyeFresher\EyeFresher\obj\Debug\EyeFresher.Properties.Resources.resources
+D:\Visual Studio Projects\Projects\EyeFresher\EyeFresher\obj\Debug\EyeFresher.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\Projects\EyeFresher\EyeFresher\bin\Debug\EyeFresher.exe.config
+D:\Visual Studio Projects\Projects\EyeFresher\EyeFresher\bin\Debug\EyeFresher.exe
+D:\Visual Studio Projects\Projects\EyeFresher\EyeFresher\bin\Debug\EyeFresher.pdb
+D:\Visual Studio Projects\Projects\EyeFresher\EyeFresher\bin\Debug\MetroFramework.dll
+D:\Visual Studio Projects\Projects\EyeFresher\EyeFresher\bin\Debug\MetroFramework.Fonts.dll
+D:\Visual Studio Projects\Projects\EyeFresher\EyeFresher\obj\Debug\EyeFresher.exe
+D:\Visual Studio Projects\Projects\EyeFresher\EyeFresher\obj\Debug\EyeFresher.pdb
+D:\Visual Studio Projects\Projects\EyeFresher\EyeFresher\obj\Debug\EyeFresher.PreferenceForm.resources
+D:\Visual Studio Projects\Projects\EyeFresher\EyeFresher\obj\Debug\EyeFresher.NotificationForm.resources
